@@ -1,23 +1,37 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
-# dependencies
-/node_modules
-/.pnp
-.pnp.js
-
-# testing
-/coverage
-
-# production
-/build
-
-# misc
-.DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
+# Ignorar módulos de Node.js
+node_modules/
 npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+
+# Ignorar dependencias de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+
+# Ignorar configuraciones del entorno
+.env
+
+# Ignorar archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar logs y archivos temporales
+logs/
+*.log
+*.tmp
+
+# Ignorar carpetas de compilación o empaquetado
+dist/
+build/
+
+# Ignorar backups de editores
+*.swp
+*.swo
+*.bak
+
+# Ignorar IDEs
+.vscode/
+.idea/
+
+# Ignorar otras carpetas irrelevantes
+coverage/
