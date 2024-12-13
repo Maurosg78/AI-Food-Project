@@ -1,0 +1,66 @@
+{
+  "problematicIngredients": {
+    "palm oil": {
+      "reason": "High in saturated fats and linked to deforestation.",
+      "suggestedSubstitutes": ["olive oil", "sunflower oil", "coconut oil"]
+    },
+    "high fructose corn syrup": {
+      "reason": "Contributes to obesity and metabolic issues.",
+      "suggestedSubstitutes": ["agave syrup", "maple syrup", "honey"]
+    },
+    "artificial colors": {
+      "reason": "Potential links to hyperactivity in children.",
+      "suggestedSubstitutes": ["natural beet juice", "carrot extract", "turmeric"]
+    },
+    "sodium benzoate": {
+      "reason": "May form benzene when combined with vitamin C.",
+      "suggestedSubstitutes": ["natural ascorbic acid", "potassium sorbate"]
+    },
+    "sugar": {
+      "reason": "High glycemic index, contributes to obesity.",
+      "suggestedSubstitutes": ["stevia", "erythritol", "honey"]
+    },
+    "white flour": {
+      "reason": "Low in fiber and nutrients.",
+      "suggestedSubstitutes": ["whole grain flour", "almond flour", "coconut flour"]
+    },
+    "butter": {
+      "reason": "High in saturated fats.",
+      "suggestedSubstitutes": ["coconut oil", "avocado oil", "vegan butter"]
+    },
+    "table salt": {
+      "reason": "Excess sodium intake linked to hypertension.",
+      "suggestedSubstitutes": ["sea salt", "pink Himalayan salt", "herb blends"]
+    },
+    "monosodium glutamate (MSG)": {
+      "reason": "Potential sensitivity in some individuals.",
+      "suggestedSubstitutes": ["natural yeast extract", "mushroom powder", "soy sauce"]
+    }
+  },
+  "sustituciones": {
+    "aceite de palma": {
+      "alternativa": "aceite de oliva",
+      "ventaja": "Mayor contenido de grasas saludables y antioxidantes"
+    },
+    "harina blanca": {
+      "alternativa": "harina integral",
+      "ventaja": "Mayor contenido de fibra"
+    },
+    "azúcar": {
+      "alternativa": "stevia",
+      "ventaja": "Índice glucémico más bajo"
+    },
+    "mantequilla": {
+      "alternativa": "aceite de coco",
+      "ventaja": "Reducción en grasas saturadas animales"
+    },
+    "sal de mesa": {
+      "alternativa": "sal rosa del Himalaya",
+      "ventaja": "Menor contenido de sodio por porción"
+    },
+    "jarabe de maíz": {
+      "alternativa": "jarabe de agave",
+      "ventaja": "Índice glucémico más bajo y sabor más natural"
+    }
+  }
+}
