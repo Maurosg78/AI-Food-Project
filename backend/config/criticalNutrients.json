@@ -1,0 +1,29 @@
+{
+  "nutrients": {
+    "sodium": {
+      "thresholdPer100g": 400,
+      "unit": "mg",
+      "reason": "Exceeds recommended daily limit for sodium.",
+      "regulation": "Chile - Sellos de advertencia"
+    },
+    "sugar": {
+      "thresholdPer100g": 10,
+      "unit": "g",
+      "reason": "High sugar content can lead to obesity.",
+      "regulation": "WHO"
+    },
+    "saturatedFat": {
+      "thresholdPer100g": 4,
+      "unit": "g",
+      "reason": "High saturated fats are linked to heart diseases.",
+      "regulation": "USDA"
+    },
+    "calories": {
+      "thresholdPer100g": 275,
+      "unit": "kcal",
+      "reason": "Excessive calories contribute to weight gain.",
+      "regulation": "Chile - Sellos de advertencia"
+    }
+  }
+}
+

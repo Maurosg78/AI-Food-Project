@@ -1,40 +1,33 @@
 {
     "problematicIngredients": {
-        "palm oil": {
-            "reason": "High in saturated fats and linked to deforestation.",
-            "suggestedSubstitutes": ["olive oil", "sunflower oil", "coconut oil"]
-        },
-        "high fructose corn syrup": {
-            "reason": "Contributes to obesity and metabolic issues.",
-            "suggestedSubstitutes": ["agave syrup", "maple syrup", "honey"]
-        },
-        "artificial colors": {
-            "reason": "Potential links to hyperactivity in children.",
-            "suggestedSubstitutes": ["natural beet juice", "carrot extract", "turmeric"]
-        },
-        "sodium benzoate": {
-            "reason": "May form benzene when combined with vitamin C.",
-            "suggestedSubstitutes": ["natural ascorbic acid", "potassium sorbate"]
-        },
-        "white flour": {
-            "reason": "Low nutritional value and may cause blood sugar spikes.",
-            "suggestedSubstitutes": ["whole wheat flour", "almond flour", "coconut flour"]
-        },
-        "partially hydrogenated oils": {
-            "reason": "Contain trans fats, which are harmful to heart health.",
-            "suggestedSubstitutes": ["butter", "coconut oil", "ghee"]
-        },
-        "artificial sweeteners": {
-            "reason": "May negatively impact gut health and metabolism.",
-            "suggestedSubstitutes": ["stevia", "erythritol", "monk fruit"]
-        },
-        "processed meat": {
-            "reason": "Linked to cancer and heart disease.",
-            "suggestedSubstitutes": ["tofu", "tempeh", "seitan"]
-        },
-        "sodium nitrate": {
-            "reason": "May form cancer-causing nitrosamines.",
-            "suggestedSubstitutes": ["natural sea salt", "celery powder"]
-        }
+      "sugar": {
+        "reason": "Contributes to obesity.",
+        "suggestedSubstitutes": ["stevia", "honey"]
+      },
+      "salt": {
+        "reason": "Can raise blood pressure if consumed in excess.",
+        "suggestedSubstitutes": ["sea salt", "low-sodium salt"]
+      },
+      "citric acid": {
+        "reason": "Artificial acid, may cause irritation.",
+        "suggestedSubstitutes": ["lemon juice", "vinegar"]
+      },
+      "peanut oil": {
+        "reason": "High in saturated fats.",
+        "suggestedSubstitutes": ["olive oil", "avocado oil"]
+      },
+      "sesame oil": {
+        "reason": "May cause allergic reactions.",
+        "suggestedSubstitutes": ["sunflower oil", "canola oil"]
+      },
+      "natural flavor": {
+        "reason": "Generic term that may hide additives or allergens.",
+        "suggestedSubstitutes": ["vanilla extract", "citrus zest"]
+      },
+      "hydrolyzed soy protein": {
+        "reason": "Highly processed, may contain glutamates.",
+        "suggestedSubstitutes": ["natural soy protein", "tofu"]
+      }
     }
-}
+  }
+  
